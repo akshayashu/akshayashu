@@ -2,7 +2,7 @@
 
 ### I'm Akshay Khanna, 
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493blgptk9o6ttd3sp0bsqjetuepwsypab3acmx85fgv&rid=200w.gif" width="400" height="300" />
 
 
 ### 💼  Things that I'm currently working on: 
