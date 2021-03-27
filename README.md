@@ -16,13 +16,13 @@
 * ⚡ Fun fact: Football freak, PES>FIFA 🤣
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+Since everything is getting done from home, and I’m having a tremendous of spare time, I decided to take this time to focus on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 
 
-* Learn to code 3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code 3-4 hours a day with no distraction ( One day off a week. ) 
 * Read a book a week.
 * Workout 3 days in a row and take a day break .
-* Avoid the over using social media.
-* Adapting the minimalism life style.
+* Avoid overusing social media.
+* Adapting the minimalist lifestyle.
 * Practice meditation.
 
  
