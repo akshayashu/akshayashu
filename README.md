@@ -2,7 +2,7 @@
 
 ### I'm Akshay Khanna, 
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="300" />
 
 
 ### 💼  Things that I'm currently working on: 
@@ -11,7 +11,6 @@
 * 🔪 Giving cutting edge to my Android skills, and looking forward to contribute in open source project. 
 * 🌐 Just started for front-End web development.
 * ✍ Working on DS & Algo and learning some CS concepts.
-* 🌱 I’m currently learning Web and Ds
 * 👯 I’m looking to collaborate on Android projects
 * 💻 Available for freelancng.
 * ⚡ Fun fact: Football freak, PES>FIFA 🤣
