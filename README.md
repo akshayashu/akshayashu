@@ -9,16 +9,15 @@
 * 📖 Doing bachelor's degree in Electronics and Communication Engineering
 * 🔭 I’m currently working on Android
 * 🔪 Giving cutting edge to my Android skills, and looking forward to contribute in open source project. 
-* 🌐 Just started for front-End web development.
-* ✍ Working on DS & Algo and learning some CS concepts.
-* 👯 I’m looking to collaborate on Android projects
-* 💻 Available for freelancng.
-* ⚡ Fun fact: Football freak, PES>FIFA 🤣
+* 🌐 Just started for React and React-native.
+* ✍ Working on DS & Algo.
+* 👯 I’m looking to collaborate on Android projects.
+* 💻 Looking SDE roles.
+* ⚡ Fun fact: Football freak, PES > FIFA 🤣
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since everything is getting done from home, and I’m having a tremendous of spare time, I decided to take this time to focus on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 
 
-* Learn to code 3-4 hours a day with no distraction ( One day off a week. ) 
 * Read a book a week.
 * Workout 3 days in a row and take a day break .
 * Avoid overusing social media.
