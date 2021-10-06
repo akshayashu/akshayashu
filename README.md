@@ -18,10 +18,8 @@
 ### 🌱 Challenges that I’m currently challenging myself:
 Since everything is getting done from home, and I’m having a tremendous of spare time, I decided to take this time to focus on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 
 
-* Read a book a week.
 * Workout 3 days in a row and take a day break .
 * Avoid overusing social media.
-* Adapting the minimalist lifestyle.
 * Practice meditation.
 
  
