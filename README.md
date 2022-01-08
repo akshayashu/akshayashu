@@ -6,19 +6,18 @@
 
 
 ### 💼  Things that I'm currently working on: 
+* 💻 Software Engineering Intern at RedHat.
 * 📖 Doing bachelor's degree in Electronics and Communication Engineering
 * 🔭 I’m currently working on Android
 * 🔪 Giving cutting edge to my Android skills, and looking forward to contribute in open source project. 
 * 🌐 Just started for React and React-native.
 * ✍ Working on DS & Algo.
 * 👯 I’m looking to collaborate on Android projects.
-* 💻 Looking SDE roles.
 * ⚡ Fun fact: Football freak, PES >>> FIFA 🤣
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since everything is getting done from home, and I’m having a tremendous of spare time, I decided to take this time to focus on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 
 
-* Workout 3 days in a row and take a day break .
 * Avoid overusing social media.
 * Practice meditation.
 
@@ -45,10 +44,7 @@ Since everything is getting done from home, and I’m having a tremendous of spa
 <a href="https://twitter.com/AkshayK10904164" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/akshay.khanna.9231" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/akshay-khanna-972280193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
-
-
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
+</p> 
 
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=akshayashu&show_icons=true)
 
