@@ -4,7 +4,8 @@
 
 
 ### 💼  Things that I'm currently working on: 
-* 💻 Software Engineering Intern at RedHat.
+* 💻 Programmer Analyst @ Amazon
+* 💻 Interned @ RedHat as Software Engineering .
 * 📖 Doing bachelor's degree in Electronics and Communication Engineering
 * 🔭 I’m currently working on cloud services, kubernetes, etc.
 * 👯 Looking forward to contribute in open source project. 
