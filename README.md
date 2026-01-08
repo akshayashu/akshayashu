@@ -4,14 +4,13 @@
 
 
 ### 💼  Things that I'm currently working on: 
-* 💻 Programmer Analyst @ Amazon
+* 💻 Software Development Engineer @ Amazon
 * 💻 Interned @ RedHat as Software Engineering .
-* 📖 Doing bachelor's degree in Electronics and Communication Engineering
-* 🔭 I’m currently working on cloud services, kubernetes, etc.
+* 📖 Bachelor's degree in Electronics and Communication Engineering
+* 🔭 I’m currently working on building and designing large scale services for Alexa, previosuly I've worked on developing cloud services, kubernetes, etc. at RedHat.
 * 👯 Looking forward to contribute in open source project. 
-* 🌐 Just started for React and React-native.
 * ✍ Working on DS & Algo.
-* ⚡ Fun fact: Football freak, PES >>> FIFA 🤣
+* ⚡ Fun fact: Football freak, PES >>> FIFA
  
  **Languages and Frameworks:**
 <p align="left">
